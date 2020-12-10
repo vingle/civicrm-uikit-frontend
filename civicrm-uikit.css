@@ -11,6 +11,7 @@
     max-width: calc(100% - 20px);
     width: 100%;
     border: 0 none currentcolor;
+    padding: 0 10px;
 }
 .crm-container .crm-button input {
     border: none;
@@ -34,7 +35,6 @@
     background-origin: border-box;
     max-width: inherit;
     width: inherit;
-    padding: 0 10px;
 }
 
 /* FORMS */
